@@ -1,5 +1,5 @@
 ## RODE O SERVER
-`node ./server.js`
+`node src\server.js`
 
 ## RODE O CLIENTE
-`node ./client.js`
+`node src\/client.js`
